@@ -10,10 +10,10 @@ Now, you might ask, "Why shouldn't I just go to the Daily Wire website to read t
 
 # Example of the application
 
-[[https://github.com/thenicknash/the-daily-wire-news-scraper/blob/master/images/main-menu-daily-wire-scrape.png|alt=DailyWireMainMenu]]
+[https://github.com/thenicknash/the-daily-wire-news-scraper/blob/master/images/main-menu-daily-wire-scrape.png|alt=DailyWireMainMenu]
 
-[[https://github.com/thenicknash/the-daily-wire-news-scraper/blob/master/images/top-headlines-daily-wire-scrape.png|alt=DailyWireMainMenu]]
+[https://github.com/thenicknash/the-daily-wire-news-scraper/blob/master/images/top-headlines-daily-wire-scrape.png|alt=DailyWireMainMenu]
 
-[[https://github.com/thenicknash/the-daily-wire-news-scraper/blob/master/images/other-headlines-daily-wire-scrape.png|alt=DailyWireMainMenu]]
+[https://github.com/thenicknash/the-daily-wire-news-scraper/blob/master/images/other-headlines-daily-wire-scrape.png|alt=DailyWireMainMenu]
 
-[[https://github.com/thenicknash/the-daily-wire-news-scraper/blob/master/images/page-content-daily-wire-scrape.png|alt=DailyWireMainMenu]]
+[https://github.com/thenicknash/the-daily-wire-news-scraper/blob/master/images/page-content-daily-wire-scrape.png|alt=DailyWireMainMenu]
